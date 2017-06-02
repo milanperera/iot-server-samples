@@ -16,9 +16,9 @@ package org.wso2.androidtv.agent.services;
 
 import android.content.Context;
 
-import org.wso2.androidtv.agent.mqtt.cache.CacheDAO;
-import org.wso2.androidtv.agent.mqtt.cache.CacheEntry;
-import org.wso2.androidtv.agent.mqtt.cache.CacheManager;
+import org.wso2.androidtv.agent.cache.CacheDAO;
+import org.wso2.androidtv.agent.cache.CacheEntry;
+import org.wso2.androidtv.agent.cache.CacheManager;
 
 import java.util.List;
 

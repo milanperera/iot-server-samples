@@ -46,7 +46,7 @@ import org.wso2.androidtv.agent.VideoActivity;
 import org.wso2.androidtv.agent.constants.TVConstants;
 import org.wso2.androidtv.agent.mqtt.AndroidTVMQTTHandler;
 import org.wso2.androidtv.agent.mqtt.MessageReceivedCallback;
-import org.wso2.androidtv.agent.mqtt.cache.CacheEntry;
+import org.wso2.androidtv.agent.cache.CacheEntry;
 import org.wso2.androidtv.agent.mqtt.transport.TransportHandlerException;
 import org.wso2.androidtv.agent.util.AndroidTVUtils;
 import org.wso2.androidtv.agent.util.LocalRegistry;
